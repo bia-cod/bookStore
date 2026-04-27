@@ -1,0 +1,3 @@
+
+REACT NATIVE-CONTRAINTS
+No Postman, constraints e tipos de dados servem para testar se a API aceita apenas informações válidas. É possível definir regras como campos obrigatórios, número mínimo para idade e formato correto de e-mail. Assim, valores inválidos como idade negativa ou dados faltando podem ser detectados antes de chegar ao app em React Native. Casos como e-mail duplicado também podem ser testados verificando se a API retorna erro corretamente. Isso ajuda a evitar falhas, melhorar a segurança e manter o aplicativo funcionando de forma estável.
